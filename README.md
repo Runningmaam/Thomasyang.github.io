@@ -2,7 +2,7 @@
 ### Education
 xxx
 ### Work Expression
-10+ years in fabless semiconductors
+10+ years work in the fabless semiconductors
 - big impact project1
 - big impact project2
 
