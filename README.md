@@ -1,4 +1,4 @@
-# Hardware technical 
+# Hardware technic
 
 ## SOC
 
